@@ -76,7 +76,7 @@ sleep 2
 git clone https://github.com/Darkziinh/SITEX
 git clone https://github.com/Darkziinh/apikey
 git clone https://github.com/Darkziinh/testek
-cd darkbot3.0
+cd Gang-V8
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
