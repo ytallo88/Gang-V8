@@ -1,1 +1,0 @@
-internal filés reloading = database
