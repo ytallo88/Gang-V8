@@ -71,7 +71,7 @@ echo "Por favor espere um momento....."
 sleep 4
 clear
 sleep 2
-echo "          $merah   instalando o darkbot"
+echo "          $merah   instalando o Gang BOT"
 sleep 2
 cd $HOME
 pkg update && pkg upgrade
