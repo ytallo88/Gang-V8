@@ -83,7 +83,7 @@ pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
-unzip Gang-V8-main.zip
+unzip Gang-V8.zip
 cd Gang-V8
 bash install.sh
 sleep 2
