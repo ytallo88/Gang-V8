@@ -81,7 +81,7 @@ git clone https://github.com/ytallo88/Gang-V8
 cd Gang-V8
 pkg install unzip
 pkg install nodejs
-pkg inatall ffmpeg
+pkg install ffmpeg
 pkg install tesseract
 unzip Gang-V8.zip
 cd Gang-V8
