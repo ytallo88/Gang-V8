@@ -1,3 +1,0 @@
-echo:
-pkg install 'database/pkg'
-fi
