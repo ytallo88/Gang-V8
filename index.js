@@ -14,7 +14,7 @@ CFonts.say('\'termux-whatsapp-bot\' By @NazwaS', {
 })
 
 function start() {
-  let args = [path.join(__dirname, 'nzwa.js'), ...process.argv.slice(2)]
+  let args = [path.join(__dirname, 'index.js'), ...process.argv.slice(2)]
   CFonts.say([process.argv[0], ...args].join(' '), {
     font: 'console',
     align: 'center',
